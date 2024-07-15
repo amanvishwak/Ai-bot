@@ -11,3 +11,5 @@ werkzeug==2.0.2
 itsdangerous==2.0.1
 https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
 sending
+Flask==1.1.2
+Jinja2==3.0.3
